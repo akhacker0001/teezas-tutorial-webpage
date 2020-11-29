@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    /* border: 1px solid black; */
+    height: 135px;
+    background-color: rgb(0, 127, 76);
+    display: flex;
+
+   
+}
+#brandImg{
+    height: 76px;
+}
+#img1{
+    margin: 10px 0px 0px 40px;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    margin: 10px;
+
+    
+   
+}
+ul{
+    text-align: right;
+    
+}
+
+#topContant{
+    margin-top: 30px;
+    margin-left:120px;
+    
+    /* border: 1px solid black; */
+   
+}
+.crausel{
+    width: 1300px;
+    margin: auto;
+    border: none;
+    height: 500px;
+    margin-top: 50px;
+}
+.heading{
+    width: 85%;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 60px;
+}
+#h1{
+    font-size: 50px;
+    color: rgb(0, 127, 76);
+
+}
+#underline{
+    width: 85%;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+#footer{
+    /* border: 1px solid red; */
+    height: 70px;
+   width: 1300px;
+    margin: auto;
+    display: flex;
+    margin-top: 100px;
+}
+#h4{
+    font-size: 18px;
+    color: rgb(94, 94, 94);
+    font-family: Lato, arial, sans-serif;
+    font-weight: 200;
+}
+#footer2{
+    margin-left: 200px;
+    /* border: 1px solid black; */
+    width: 600px;
+    text-align: right;
+
+}
+#footer1{
+    /* border:1px solid black; */
+    width: 600px;
+}

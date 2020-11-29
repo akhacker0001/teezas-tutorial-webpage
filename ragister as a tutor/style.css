@@ -1,0 +1,141 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    /* border: 1px solid black; */
+    height: 137px;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(0, 127, 76);
+    display: flex;
+    text-align: center;
+    
+}
+.inner-container{
+    height: 104px;
+    width: 410px;
+    /* border: 1px solid red; */
+    margin: 15px 0px 0px 15px;
+    
+}
+.img{
+    height: 104px;
+    width: 400px;
+}
+.inner-container1{
+    height: 50px;
+    width: 1000px;
+    /* border: 1px solid red; */
+    /* text-align: center; */
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 150px;
+   
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    margin: 15px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.063em;
+    text-transform: uppercase;
+    font-family: Lato, arial, sans-serif;
+}
+.container-outer{
+    border: 1px solid rgb(0, 127, 76);
+    background-color: rgb(0, 127, 76);
+     width: 700px;
+ height: 48px; 
+    /* padding: 200xp 700px; */
+    text-align: center;
+    /* margin: auto; */
+    margin-top: 40px;
+    justify-content: center;
+    margin: 50px 350px;
+}
+.h1{
+    color: white;
+    font-size: 18px;
+    margin-top: 13px;
+    font-weight: 700;
+    font-family: Lato, arial, sans-serif;
+}
+.information{
+    height: auto;
+    width: auto;
+}
+.info{
+    color: rgb(0, 127, 76);
+    font-family: Lato, arial, sans-serif;
+    font-size: 50px;
+    margin: 130px 0px 0px 150px;
+}
+.container-information{
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.timing{
+    color: rgb(27, 27, 27);
+    font-size: 24px;
+    margin-top: 10px;
+}
+.adress{
+    color: rgb(94, 94, 94);
+}
+p{
+    color: rgb(0, 127, 76);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.hour{
+    margin-top: 30px;
+}
+h4{
+    display: inline;
+    font-size: 20px;
+}
+.time{
+    color:rgb(0, 127, 76);
+}
+h4{
+    color: rgb(94, 94, 94);
+}
+.image{
+    height: 400px;
+    width: 100%;
+}
+.footer{
+    height: 170px;
+width: 100%;
+/* border: 1px solid black; */
+}
+h2{
+    text-align: center;
+    display: inline-block;
+    margin-top: 80px;
+    color: rgb(94, 94, 94);
+    font-size: 20px;
+    font-weight: 400;
+}
+.footer1{
+    float: right;
+    margin-right: 100px;
+}
+.h2{
+    margin-left: 100px;
+}
+li:hover{
+    text-decoration: underline;
+    /* color: black; */
+}
